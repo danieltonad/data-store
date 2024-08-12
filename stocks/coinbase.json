@@ -1,0 +1,2732 @@
+[
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AAVEBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "APTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SOLETH"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MATHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BATBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RLYUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FILGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MATICBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "INVUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NKNGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "COMPBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ROSEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETHUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FISUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SWFTCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ICPUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FIDAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALCXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AAVEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RLYUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "VGXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "YFIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "HFTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AURORAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RNDREUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MKRBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MATICUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NMRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AXLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOTEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "POLYUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "HOPRUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NEARUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LINKUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOTGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "JUPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GALUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ICPGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NESTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AXSUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SHIBUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "POLYUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ERNEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AIOZUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOGEBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OGNBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CLVUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LINKUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MINAEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BATUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ACHUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DIAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BONDUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DIAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LDOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "IMXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRBUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "EOSEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PLAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BADGEREUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PONDUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KSMUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OMGBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FOXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PONDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TIMEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "STXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "METISUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DYPUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FARMUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CRVEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BATETH"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZENUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RLCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTRSTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BANDGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CHZEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ACHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FILBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SOLUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ILVUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "USDTEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MATHUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FORTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AAVEGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BOBAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRACUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SYNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RNDRUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WBTCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OMGEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NKNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "EGLDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NCTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BANDEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SANDUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FETUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "HBARUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ROSEUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PERPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MKRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SANDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUKUUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUKUUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ATOMBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MINAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "JASMYUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MCO2USDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MATICUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ELAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CLVGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CBETHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CLVEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DREPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "USDTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "1INCHGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XTZEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RADEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CGLDEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ATAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BCHEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FILUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LTCEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "JASMYUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ADABTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ORNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AVAXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LRCBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BOBAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KNCBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FILEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "STGUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTRSTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MIRBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WCFGUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DYPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BALBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SHPINGEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ABTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "EOSBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRBBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GNOUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUKUEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UMAGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LTCGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LQTYUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SNXGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRUUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GYENUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AUCTIONUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CVXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "QNTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WAMPLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRUEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ATOMGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OCEANUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALCXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OMGUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LINKGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FLOWUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NESTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "INDEXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ASTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "IDEXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RPLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RADGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LRCUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CGLDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BNTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SHIBUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BADGERUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AUCTIONEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUSHIETH"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ERNUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WAMPLUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BICOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SHPINGUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CELRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "STORJBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PAXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ENJUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CTSIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUSHIGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LPTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "STORJUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SKLEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OGNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CROUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ENJUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WCFGEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "COVALUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MIRGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AVAXBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FIDAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "USDCEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GRTBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KAVAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DESOUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BCHGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CVCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FORTHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CROUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OPUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CBETHETH"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MSOLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RADUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XTZGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "00USD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MANAEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NMREUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTCGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MCO2USD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NMRGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ADAEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CHZGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "USDCGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LRCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BICOEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "APEEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ASMUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "REPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NKNEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LCXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BANDBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ADAGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SOLGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BCHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PERPEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PUNDIXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "REQGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AXSUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MATICEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETCGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UMAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DEXTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALICEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RNDRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LINKEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FORTHGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ATOMUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GUSDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MANABTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NCTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XTZUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XLMEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "HOPRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SNXBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MIREUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CTSIBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "IDEXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUPERUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XCNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "INJUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LTCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "REPBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KRLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LOKAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZECBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DESOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FISUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DDXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SOLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GRTEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DESOEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MAGICUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ELAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOGEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CROEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GRTGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "VGXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTRSTBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RENBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CRVGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GALAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BADGERUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "YFIIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "HBARUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BITUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AUCTIONUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "COVALUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MASKGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SOLBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RLYEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CGLDGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GMTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SKLBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GODSUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "STGUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ANTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AXSEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FORTHBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UNFIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XLMBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETCEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUPERUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALGOEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "USDTGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ANKRGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "POWRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XYOEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ENSUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SYLOUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ENSUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GNOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OOKIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NCTEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RADBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RBNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ATAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GRTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GMTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MXCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "QNTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AVAXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ARPAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GLMUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "REQBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LCXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SNXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ARPAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ERNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WCFGUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CLVUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZENBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SOLEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CTXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOGEGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FARMUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AVTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PRQUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WCFGBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GTCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRACUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BUSDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GHSTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CGLDBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MEDIAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AUDIOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "YFIBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NEARUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FETUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RLCBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BNTGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "HIGHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "EOSUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LINKBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XTZBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALGOGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LCXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "COTIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "COMPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUSHIBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RARIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XYOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DAIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "IOTXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "QIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LINKETH"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SHIBGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CHZUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SKLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "INDEXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LITUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XCNUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DASHBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ARPAEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "VGXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DDXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MEDIAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "IOTXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UMAEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MNDEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PERPUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MLNUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTRSTEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BATEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZRXBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NMRBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "USDTUSDC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AGLDUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALGOBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "C98USDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MASKEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CHZUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UNIEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "API3USD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ORNBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RENUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "POLSUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOTBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRUUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOGEEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AXSBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETHEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTRSTGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZENUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETHBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "1INCHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ICPEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALGOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AERGOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AGLDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MDTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ASMUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "METISUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MANAETH"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PAXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AIOZUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SHPINGUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SNXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DNTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "QSPUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ATOMEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FIDAEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTCUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GFIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MDTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUSHIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ADAETH"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "REQUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ADAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RAREUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DREPUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CTXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DARUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SNTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AAVEEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOGEUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZECUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTCEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "1INCHBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PNGUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AVAXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KRLEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WBTCBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SYLOUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PYRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DASHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "POLSUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ORNUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SHIBEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ENSEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "API3USDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DDXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETHDAI"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ICPBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TIMEUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRUBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETHGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SPELLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FORTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RLYGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TRACEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BNTBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FORTHEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "IMXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "WAXLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "NKNBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XLMUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XYOUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZRXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "APEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LQTYEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MPLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALEPHUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MASKUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KSMUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MINAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MASKUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OXTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "TONEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "1INCHEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GSTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "HFTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UNIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "QSPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GALAUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DOTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FOXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CRVBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "APTUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETCBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "DIAEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KNCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LTCBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ORCAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LOOMUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ALCXEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "STXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MANAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CRVUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "APEUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BITUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MTLUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BLZUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "GALUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UNIBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ETCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "KRLUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "POWREUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RADUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CTXUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MIRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UNIGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ZRXUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BCHBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PRQUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BICOUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MUSEUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BALUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "LQTYUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ATOMUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XYOBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "C98USD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "POWRUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "XLMUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SUSHIEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PROUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ICPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "FLOWUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "UMABTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "PLUUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "REQUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "OMGGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BNTEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BONDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "QUICKUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ENJBTC"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BTCUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "REQEUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "MATICGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "AMPUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ANKRUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "BANDUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ADAUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "CRPTUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "RAIUSD"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SPELLUSDT"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "SKLGBP"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ANKREUR"
+    },
+    {
+        "screener": "crypto",
+        "exchange": "COINBASE",
+        "symbol": "ANKRBTC"
+    }
+]
